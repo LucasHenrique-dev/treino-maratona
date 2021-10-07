@@ -14,3 +14,4 @@ Repositório dedicado aos estudos de questões sobre maratona de programação (
 10. [F91 - f91](exercicios_recursao/f91/f91.cpp): https://br.spoj.com/problems/F91/
 11. [O Problema 3n + 1](exercicios_recursao/p3n_1/p3n_1.cpp): https://neps.academy/br/exercise/259
 12. [OBIHANOI - Torres de Hanói](exercicios_recursao/hanoi/hanoi.cpp): https://br.spoj.com/problems/OBIHANOI/
+13. [Repetitive Addition Of Digits](exercicios_recursao/repetiting_adding_of_digits/adding_digits.cpp): https://practice.geeksforgeeks.org/problems/repetitive-addition-of-digits2221/1
