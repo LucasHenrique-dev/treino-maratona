@@ -8,3 +8,9 @@ Repositório dedicado aos estudos de questões sobre maratona de programação (
 4. [OVERF09 - Overflow](overflow/overflow.cpp): https://br.spoj.com/problems/OVERF09/
 5. [DAMA - Dama](dama/dama.cpp): https://br.spoj.com/problems/DAMA/
 6. [BOTAS - Botas perdidas](botas/botas.cpp): https://br.spoj.com/problems/BOTAS/
+7. [Game](exercicios_ordenacao/game/game.cpp): https://codeforces.com/problemset/problem/984/A
+8. [Heist](exercicios_ordenacao/heist/heist.cpp): https://codeforces.com/problemset/problem/1041/A
+9. [Casa das Cartas](exercicios_ordenacao/casa_das_cartas/casa_cartas.cpp): https://neps.academy/br/exercise/249
+10. [F91 - f91](exercicios_recursao/f91/f91.cpp): https://br.spoj.com/problems/F91/
+11. [O Problema 3n + 1](exercicios_recursao/p3n_1/p3n_1.cpp): https://neps.academy/br/exercise/259
+12. [OBIHANOI - Torres de Hanói](exercicios_recursao/hanoi/hanoi.cpp): https://br.spoj.com/problems/OBIHANOI/
