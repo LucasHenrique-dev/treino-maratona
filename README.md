@@ -18,3 +18,4 @@ Repositório dedicado aos estudos de questões sobre maratona de programação (
 14. [Find the closest number](exercicios_busca_binaria/closest_number/closest_number.cpp): https://practice.geeksforgeeks.org/problems/find-the-closest-number5513/1
 15. [SOMA12 - Soma de Casas](exercicios_busca_binaria/soma_de_casas/soma_casas.cpp): https://br.spoj.com/problems/SOMA12/
 16. [Ogros](exercicios_busca_binaria/ogros/ogros.cpp): https://olimpiada.ic.unicamp.br/pratique/p2/2008/f1/ogros/
+16. [PAO07 - Păo a metro](exercicios_busca_binaria/pao_metro/pao_metro.cpp): https://br.spoj.com/problems/PAO07/
