@@ -30,7 +30,7 @@ int busca_ogra(int inicio, int fim, int alvo) {
 
 }
 
-int main() {
+int ogros() {
 
     int n, m;
     int pontuacoes[10009], forcas[10009];
