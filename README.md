@@ -20,3 +20,4 @@ Repositório dedicado aos estudos de questões sobre maratona de programação (
 16. [Ogros](exercicios_busca_binaria/ogros/ogros.cpp): https://olimpiada.ic.unicamp.br/pratique/p2/2008/f1/ogros/
 16. [PAO07 - Păo a metro](exercicios_busca_binaria/pao_metro/pao_metro.cpp): https://br.spoj.com/problems/PAO07/
 16. [Array Subset of another array](exercicios_busca_binaria/array_subset/array_subset.cpp): https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1
+16. [Febre de Recursões](exercicios_programacao_dinamica/febre_de_recursao/febre_recursao.cpp): https://neps.academy/br/exercise/279
