@@ -21,3 +21,5 @@ Repositório dedicado aos estudos de questões sobre maratona de programação (
 16. [PAO07 - Păo a metro](exercicios_busca_binaria/pao_metro/pao_metro.cpp): https://br.spoj.com/problems/PAO07/
 16. [Array Subset of another array](exercicios_busca_binaria/array_subset/array_subset.cpp): https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1
 16. [Febre de Recursões](exercicios_programacao_dinamica/febre_de_recursao/febre_recursao.cpp): https://neps.academy/br/exercise/279
+16. [MOEDAS - Moedas](exercicios_programacao_dinamica/moedas/moedas.cpp): https://br.spoj.com/problems/MOEDAS/
+16. [Cut Ribbon](exercicios_programacao_dinamica/cut_ribbon/cut_ribbon.cpp): https://codeforces.com/problemset/problem/189/A
